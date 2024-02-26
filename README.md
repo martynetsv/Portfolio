@@ -1,4 +1,4 @@
-<center><h1>Yandex.Praktikum Data Science Projects</h1></center>
+<center><h1>Yandex.Praktikum Projects</h1></center>
 
 <table width=100% valign=top >
   <tr>
